@@ -6,9 +6,9 @@ pinMode(11,OUTPUT);   //left motors forward
 pinMode(12,OUTPUT);   //left motors reverse
 pinMode(13,OUTPUT);   //right motors forward
 pinMode(10,OUTPUT);   //right motors reverse
-pinMode(9,OUTPUT);
-pinMode(8,OUTPUT);    //
-pinMode(7,OUTPUT);    //front led
+pinMode(9,OUTPUT);    //front led
+pinMode(8,OUTPUT);    //horn
+pinMode(7,OUTPUT);    //backward led
 Serial.begin(9600);
  
 } 
