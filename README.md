@@ -2,7 +2,7 @@
 An Arduino based RC motor car, controlled by Smartphone
 
 
-[![Video Demonstration](https://i.imgur.com/oLV23bJ.png)](https://www.youtube.com/watch?v=OEEg0mw7ezg&ab_channel=XQuestCodes)
+[![Video Demonstration](https://i.imgur.com/oLV23bJ.png)](https://youtu.be/qrr9HQc5dlQ)
 *Click on image above for YT demonstration video*
 
 *Connect motors a side asuch a way, that rotating left backward motor forward automatically rotates left front wheels*
